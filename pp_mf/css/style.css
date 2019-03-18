@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,500,600,700');
+body{
+	font-family: montserrat;
+	font-size: 14px;
+	color: #212529;
+	background-color: #000;
+}
+.header-area.sticky {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+	width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+}
+.header-area.sticky .navbar-default{
+	background-color: #884bdf;
+}
+
+#header h3 {
+	padding-top: 10px;
+	padding-left: 10px;
+	
+}
+
+#sec-home {
+	color: #fff;
+	background-color: #000;
+	background-image: url("../img/FotoPerfil1.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 500px;
+	
+}
+
+#sec-acercademi {
+	padding-top: 80px;
+	padding-bottom: 50px;
+	background-color: #818181;
+	color: #000;
+	
+}
+
+#sec-acercademi h3 {
+	color: #FFDBDC;
+	margin-bottom: 50px;
+}
+
+#sec-acercademi h5 {
+	color: #fff;
+}
+
+.icon-counter{
+	font-size: 50px; 
+	align-content: center;
+	padding-bottom: 15px;
+ }
+
+#portafolio-logos {
+	padding-top: 80px;
+	padding-bottom: 50px;
+	background-color: #000;
+}
+
+#portafolio-logos h3 {
+	color: #FFDBDC;
+}
+
+#portafolio-logos p {
+	color: #818181;
+}
+
+#fotografias p{
+	color: #818181;
+}
+
+#sec-servicios{
+	background-color: #818181;
+	padding-top: 80px;
+	padding-bottom: 50px;
+	
+}
+
+#sec-servicios h3 {
+	color: #FFDBDC;
+	padding-bottom: 40px;
+	
+}
+
+#sec-servicios h5 {
+	color: #fff;
+	
+	
+}
+
+#sec-servicios i{
+	align-content: center;
+}
+#sec-contacto {
+	background-color: #000;
+	padding-top: 80px;
+	padding-bottom: 50px;
+	color: #fff;
+}
+
+#sec-contacto h3 {
+	color: #FFDBDC;
+}
+
+#message {
+	backgorund-color: #000;
+	color: #fff;
+}
+
+#message h4{
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+#footer {
+	background-color: #fff;
+	padding-top: 80px;
+}
+
+#copyright {
+	background-color: #fff;
+	padding-bottom: 50px;
+	
+}
+
+#logos-sm {
+	color: #000;
+}
+/*Tablet*/
+@media (min-width:480px) and (max-width) {
+	
+}
+
+/*Celular*/
+
+@media (max-width:480px){
+	
+}
+
